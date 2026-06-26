@@ -1,0 +1,29 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+.npm
+*.lock
+
+# Build outputs
+dist/
+build/
+target/
+.next/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+logs/
